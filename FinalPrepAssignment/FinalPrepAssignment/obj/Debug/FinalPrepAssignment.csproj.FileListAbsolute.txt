@@ -1,0 +1,15 @@
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\bin\Debug\FinalPrepAssignment.exe.config
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\bin\Debug\FinalPrepAssignment.exe
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\bin\Debug\FinalPrepAssignment.pdb
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment.csprojAssemblyReference.cache
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\MainWindow.g.cs
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\App.g.cs
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment_MarkupCompile.cache
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment_MarkupCompile.lref
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\MainWindow.baml
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment.g.resources
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment.Properties.Resources.resources
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment.csproj.GenerateResource.cache
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment.exe
+C:\Users\Jarom\Documents\college\cs1182\FinalPrepAssignment\FinalPrepAssignment\obj\Debug\FinalPrepAssignment.pdb
